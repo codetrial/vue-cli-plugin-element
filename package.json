@@ -1,0 +1,26 @@
+{
+  "name": "vue-cli-plugin-element",
+  "version": "0.1.0",
+  "description": "Quickly build a backend system with vue-cli and element-ui in seconds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codetrial/vue-cli-plugin-element.git"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "element",
+    "layout",
+    "structure"
+  ],
+  "author": "felixpy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codetrial/vue-cli-plugin-element/issues"
+  },
+  "homepage": "https://github.com/codetrial/vue-cli-plugin-element#readme"
+}
