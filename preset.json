@@ -11,6 +11,13 @@
     },
     "@vue/cli-plugin-unit-jest": {}
   },
+  "configs": {
+    "eslintConfig": {
+      "rules": {
+        "space-before-function-paren": "off"
+      }
+    }
+  },
   "router": true,
   "routerHistoryMode": true,
   "vuex": true,
