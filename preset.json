@@ -4,10 +4,8 @@
     "@vue/cli-plugin-babel": {},
     "@vue/cli-plugin-pwa": {},
     "@vue/cli-plugin-eslint": {
-      "config": "airbnb",
-      "lintOn": [
-        "save"
-      ]
+      "config": "standard",
+      "lintOn": ["save"]
     },
     "@vue/cli-plugin-unit-jest": {}
   },
