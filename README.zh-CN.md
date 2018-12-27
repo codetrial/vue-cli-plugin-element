@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/npm/l/@codetrial/vue-cli-plugin-element.svg)](https://www.npmjs.com/package/@codetrial/vue-cli-plugin-element)
 [![Dependencies](https://img.shields.io/david/codetrial/vue-cli-plugin-element.svg)](https://www.npmjs.com/package/@codetrial/vue-cli-plugin-element)
 
-使用 vue-cli 及 element-ui 分分钟构建一个后台管理系统。
+使用 vue-cli 及 element-ui 闪电般构建一个后台管理系统。
 
 这个项目不仅是一个 vue-cli 插件，也是一个 vue-cli preset，希望能够帮到你！
 
@@ -30,10 +30,10 @@ yarn global add @vue/cli
 vue create --preset codetrial/vue-cli-plugin-element your-awesome-project
 ```
 
-如果你不想使用 preset 到方式，你也可以先通过 vue-cli 手动创建一个空的项目。
+如果你不想使用 preset 的方式，你也可以先通过 vue-cli 手动创建一个空的项目。
 
 ```bash
-# 确保你创建到项目选择了以下功能：
+# 确保你创建的项目选择了以下功能：
 # - Babel
 # - PWA
 # - Router
@@ -51,11 +51,13 @@ vue add @codetrial/element
 
 ## 文档
 
-完整到参考文档: [:book: codetrial.github.io/element-admin](https://codetrial.github.io/element-admin)
+完整的参考文档：[:book: codetrial.github.io/element-admin](https://codetrial.github.io/element-admin)
 
 ## 示例
 
-一个使用该插件的完整示例: [:zap: @codetrial/element-admin](https://github.com/codetrial/element-admin)
+一个使用该插件的完整示例：[:zap: @codetrial/element-admin](https://github.com/codetrial/element-admin)
+
+在线预览：[:telescope: element-admin.now.sh/](https://element-admin.now.sh/)
 
 ## 核心功能
 
