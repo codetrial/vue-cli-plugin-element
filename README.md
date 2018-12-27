@@ -14,7 +14,7 @@ This project is not only a vue-cli plugin but also a vue-cli preset. Have fun!
 
 ### Prerequisites
 
-You must install Vue CLI 3 before you start.
+You must install Vue CLI 3 before you start:
 
 ```bash
 npm install -g @vue/cli
@@ -57,7 +57,7 @@ The full documentation: [:book: codetrial.github.io/element-admin](https://codet
 
 A complete example project: [:zap: @codetrial/element-admin](https://github.com/codetrial/element-admin)
 
-Live Preview: [:telescope: element-admin.now.sh/](https://element-admin.now.sh/)
+Live Preview: [:telescope: element-admin.now.sh](https://element-admin.now.sh)
 
 ## Core Features
 

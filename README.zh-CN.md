@@ -6,7 +6,7 @@
 
 使用 vue-cli 及 element-ui 闪电般构建一个后台管理系统。
 
-这个项目不仅是一个 vue-cli 插件，也是一个 vue-cli preset，希望能够帮到你！
+这个项目不仅仅是一个 vue-cli 插件，也是一个 vue-cli preset，希望能够帮到你！
 
 :cn: 简体中文 | [:us: English](README.md)
 
@@ -57,7 +57,7 @@ vue add @codetrial/element
 
 一个使用该插件的完整示例：[:zap: @codetrial/element-admin](https://github.com/codetrial/element-admin)
 
-在线预览：[:telescope: element-admin.now.sh/](https://element-admin.now.sh/)
+在线预览：[:telescope: element-admin.now.sh](https://element-admin.now.sh)
 
 ## 核心功能
 
