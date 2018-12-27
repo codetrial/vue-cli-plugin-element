@@ -10,6 +10,14 @@
 
 :cn: 简体中文 | [:us: English](README.md)
 
+## 示例
+
+一个使用该插件的完整示例：[:zap: @codetrial/element-admin](https://github.com/codetrial/element-admin)
+
+在线预览：[:telescope: element-admin.now.sh](https://element-admin.now.sh)
+
+![Screen Capture](.github/demo.gif)
+
 ## 入门指南
 
 ### 前置依赖
@@ -52,12 +60,6 @@ vue add @codetrial/element
 ## 文档
 
 完整的参考文档：[:book: codetrial.github.io/element-admin](https://codetrial.github.io/element-admin)
-
-## 示例
-
-一个使用该插件的完整示例：[:zap: @codetrial/element-admin](https://github.com/codetrial/element-admin)
-
-在线预览：[:telescope: element-admin.now.sh](https://element-admin.now.sh)
 
 ## 核心功能
 

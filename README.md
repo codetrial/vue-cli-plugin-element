@@ -10,6 +10,14 @@ This project is not only a vue-cli plugin but also a vue-cli preset. Have fun!
 
 :us: English | [:cn: 简体中文](README.zh-CN.md)
 
+## Example
+
+A complete example project: [:zap: @codetrial/element-admin](https://github.com/codetrial/element-admin)
+
+Live Preview: [:telescope: element-admin.now.sh](https://element-admin.now.sh)
+
+![Screen Capture](.github/demo.gif)
+
 ## Getting Started
 
 ### Prerequisites
@@ -52,12 +60,6 @@ vue add @codetrial/element
 ## Docs
 
 The full documentation: [:book: codetrial.github.io/element-admin](https://codetrial.github.io/element-admin)
-
-## Example
-
-A complete example project: [:zap: @codetrial/element-admin](https://github.com/codetrial/element-admin)
-
-Live Preview: [:telescope: element-admin.now.sh](https://element-admin.now.sh)
 
 ## Core Features
 
