@@ -1,10 +1,10 @@
 {
   "name": "vue-cli-plugin-element",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Quickly build a backend system with vue-cli and element-ui in seconds.",
   "main": "index.js",
   "scripts": {
-    "test": "yarn test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -12,7 +12,11 @@
   },
   "keywords": [
     "vue",
-    "cli",
+    "vue-cli",
+    "vue-cli-plugin",
+    "vue-cli-preset",
+    "preset",
+    "plugin",
     "element",
     "layout",
     "structure"
