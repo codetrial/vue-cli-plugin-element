@@ -1,6 +1,6 @@
 {
   "name": "@codetrial/vue-cli-plugin-element",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quickly build a backend system with vue-cli and element-ui in seconds.",
   "main": "index.js",
   "scripts": {
