@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/npm/l/@codetrial/vue-cli-plugin-element.svg)](https://www.npmjs.com/package/@codetrial/vue-cli-plugin-element)
 [![Dependencies](https://img.shields.io/david/codetrial/vue-cli-plugin-element.svg)](https://www.npmjs.com/package/@codetrial/vue-cli-plugin-element)
 
-Quickly build a backend system with vue-cli and element-ui in seconds.
+Quickly build an enterprise application with vue-cli and element-ui in seconds.
 
 This project is not only a vue-cli plugin but also a vue-cli preset. Have fun!
 
@@ -32,11 +32,15 @@ yarn global add @vue/cli
 
 ### Install
 
+#### Preset
+
 You can create your project directly via preset, which already includes configurations such as ESLint and other plugins.
 
 ```bash
 vue create --preset codetrial/vue-cli-plugin-element your-awesome-project
 ```
+
+#### Plugin
 
 If you don't want to use the preset , you can manually create an empty project via vue-cli.
 
@@ -46,7 +50,7 @@ If you don't want to use the preset , you can manually create an empty project v
 # - PWA
 # - Router
 # - Vuex
-# - CSS Pre-processors
+# - CSS Pre-processors + Sass
 # - Linter - Formatter
 vue create your-awesome-project
 ```
