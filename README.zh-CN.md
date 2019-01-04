@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/npm/l/@codetrial/vue-cli-plugin-element.svg)](https://www.npmjs.com/package/@codetrial/vue-cli-plugin-element)
 [![Dependencies](https://img.shields.io/david/codetrial/vue-cli-plugin-element.svg)](https://www.npmjs.com/package/@codetrial/vue-cli-plugin-element)
 
-使用 vue-cli 及 element-ui 闪电般构建一个后台管理系统。
+使用 vue-cli 及 element-ui 闪电般构建一个企业级后台管理系统。
 
 这个项目不仅仅是一个 vue-cli 插件，也是一个 vue-cli preset，希望能够帮到你！
 
@@ -32,6 +32,8 @@ yarn global add @vue/cli
 
 ### 安装
 
+#### Preset
+
 你可以通过 preset 的方式直接创建你的项目，它已经包含了 ESLint 等插件的配置。
 
 ```bash
@@ -46,10 +48,12 @@ vue create --preset codetrial/vue-cli-plugin-element your-awesome-project
 # - PWA
 # - Router
 # - Vuex
-# - CSS Pre-processors
+# - CSS Pre-processors + Sass
 # - Linter - Formatter
 vue create your-awesome-project
 ```
+
+#### Plugin
 
 然后通过 vue 将插件添加到你的项目中。
 
