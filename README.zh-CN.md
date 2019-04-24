@@ -40,6 +40,8 @@ yarn global add @vue/cli
 vue create --preset codetrial/vue-cli-plugin-element your-awesome-project
 ```
 
+#### Plugin
+
 如果你不想使用 preset 的方式，你也可以先通过 vue-cli 手动创建一个空的项目。
 
 ```bash
@@ -52,8 +54,6 @@ vue create --preset codetrial/vue-cli-plugin-element your-awesome-project
 # - Linter - Formatter
 vue create your-awesome-project
 ```
-
-#### Plugin
 
 然后通过 vue 将插件添加到你的项目中。
 
